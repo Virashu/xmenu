@@ -1,5 +1,11 @@
 # XMenu
 
+## Virashu's config
+
+Original repo: https://github.com/phillbush/xmenu
+
+
+
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/63266536/114306062-ffb67000-9ab0-11eb-9a10-be30eadc68b4.gif", title="demo"/>
 </p>
